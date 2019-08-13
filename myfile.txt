@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6CB7-C65E
+
+ Directory of C:\Users\lifew\Desktop\faizan data\mygitproject
+
+08/12/2019  03:19 PM    <DIR>          .
+08/12/2019  03:19 PM    <DIR>          ..
+08/12/2019  03:19 PM                 0 myfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  401,877,372,928 bytes free
+hello faizan khan 8dec1990
